@@ -1,0 +1,17 @@
+h1 {
+    border-color: red;
+    border-width: 3px;
+    border-style: solid;
+}
+
+h3 {
+    border-color: rgb(178, 147, 194);
+    border-width: 3px;
+    border-style: solid;
+}
+
+p {
+    border-color: cornflowerblue;
+    border-width: 3px;
+    border-style: solid;
+}

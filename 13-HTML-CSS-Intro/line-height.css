@@ -1,0 +1,19 @@
+.first-paragraph {
+    line-height: normal;
+}
+
+.second-paragraph {
+    line-height: 2.5;
+}
+
+.third-paragraph {
+    line-height: 3em;
+}
+
+.fourth-paragraph {
+    line-height: 200%;
+}
+
+.fifth-paragraph {
+    line-height: 32px;
+}

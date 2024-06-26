@@ -1,0 +1,14 @@
+h1 {
+    font-style: oblique;
+    font-weight: 400;
+}
+
+h3 {
+    font-style: italic;
+    font-weight: 600;
+}
+
+p {
+    font-style:initial;
+    font-weight: 900;
+}

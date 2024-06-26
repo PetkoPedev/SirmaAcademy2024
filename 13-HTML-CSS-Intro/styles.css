@@ -1,0 +1,73 @@
+div.first-chapter{
+    color: black;
+}
+
+div.second-chapter{
+    color: red;
+}
+
+div.third-chapter{
+    color: green;
+}
+
+div.fourth-chapter{
+    color: blue;
+}
+
+div.fifth-chapter{
+    color: blueviolet;
+}
+
+div.first-chapter p.first-paragraph {
+    font-weight: bold;
+}
+
+div.second-chapter p.second-paragrapg {
+    font-size: 16px;
+    background-color: coral;
+}
+
+div.third-chapter p.third-paragraph{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+
+div.fourth-chapter p.fourth-paragraph {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+div.fifth-chapter p.fifth-paragraph {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(141, 39, 141);
+}
+
+div.first-chapter p#first-paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+div.second-chapter p#second-paragraph {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    background-color: white;
+}
+
+div.third-chapter p#third-paragraph{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    border: aqua;
+    border-style: dotted;
+}
+
+div.fourth-chapter p#fourth-paragraph {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    border-style: groove;
+}
+
+div.fifth-chapter p#fifth-paragraph {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(39, 71, 141);
+}
