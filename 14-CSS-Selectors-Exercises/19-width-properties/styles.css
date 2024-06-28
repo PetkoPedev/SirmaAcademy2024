@@ -1,0 +1,9 @@
+.width-example {
+    /* Set width, min-width, and max-width */
+    width: max-content;
+    padding: 20px; 
+    background-color: rgb(93, 153, 221); 
+    text-align: center; 
+    border: 0;
+    box-sizing: border-box;
+}

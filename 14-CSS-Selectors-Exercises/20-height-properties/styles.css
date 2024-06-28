@@ -1,0 +1,9 @@
+.height-example {
+    width: max-content;
+    height: 30px;
+    padding: 20px; 
+    background-color: yellowgreen; 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;  
+}

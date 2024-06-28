@@ -1,0 +1,8 @@
+.fixed-width {
+    width: 300px; 
+    padding: 20px; 
+    background-color: lightblue; 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+}

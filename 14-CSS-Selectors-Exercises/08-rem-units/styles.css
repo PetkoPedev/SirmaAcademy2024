@@ -1,0 +1,19 @@
+html {
+    /* Set font-size to 16px */
+    background-color: lightblue; 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.rem-size {
+    /* Set font-size to 2rem */
+    width: 50%; 
+    padding: 20px; 
+    background-color: rgb(173, 230, 199); 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+    font-size: 2rem;
+}

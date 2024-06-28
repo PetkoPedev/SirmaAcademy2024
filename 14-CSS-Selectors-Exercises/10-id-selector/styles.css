@@ -1,0 +1,8 @@
+div#unique-element {
+    width: 50%; 
+    padding: 20px; 
+    background-color: lightseagreen; 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+}

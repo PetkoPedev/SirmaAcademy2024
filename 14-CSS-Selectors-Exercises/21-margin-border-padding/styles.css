@@ -1,0 +1,9 @@
+.box-model {
+    width: 50%; 
+    padding: 30px; 
+    background-color: rgb(64, 197, 108); 
+    text-align: center; 
+    border: 3px solid #da7a4d; 
+    box-sizing: border-box;
+    margin: 20px;
+}

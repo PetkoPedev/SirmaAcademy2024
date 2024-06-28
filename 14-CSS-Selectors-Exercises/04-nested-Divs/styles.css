@@ -1,0 +1,17 @@
+.parent {
+    width: 60%; 
+    padding: 20px; 
+    background-color: lightblue; 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+}
+
+.child {
+    width: 50%; 
+    padding: 20px; 
+    background-color: lightcoral; 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+}

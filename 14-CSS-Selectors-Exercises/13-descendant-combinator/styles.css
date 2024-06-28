@@ -1,0 +1,8 @@
+div p {
+    width: 50%; 
+    padding: 20px; 
+    background-color: rgb(128, 165, 201); 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+}

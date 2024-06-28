@@ -1,0 +1,19 @@
+.pixel-width {
+    /* Set width to 300px */
+    width: 300px; 
+    padding: 20px; 
+    background-color: lightblue; 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+}
+
+.percentage-width {
+    /* Set width to 50% */
+    width: 50%; 
+    padding: 20px; 
+    background-color: rgb(105, 209, 161); 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+}

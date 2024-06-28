@@ -1,0 +1,19 @@
+div p {
+    /* Style for descendant combinator */
+    width: 50%; 
+    padding: 20px; 
+    background-color: lightblue; 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+}
+
+div > p {
+    /* Style for child combinator */
+    width: 40%; 
+    padding: 20px; 
+    background-color: lightcoral; 
+    text-align: center; 
+    border: 1px solid #000; 
+    box-sizing: border-box;
+}
